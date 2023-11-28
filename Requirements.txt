@@ -1,0 +1,6 @@
+numpy version: 1.26.0
+matplotlib version: 3.8.0
+pandas version: 2.1.2
+panel version: 1.3.2
+hvplot version: 0.9.0
+# if the whole notebook is executed, a new tab will open with the dashboard and all the plots
